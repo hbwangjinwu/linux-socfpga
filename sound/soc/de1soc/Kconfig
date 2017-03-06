@@ -1,0 +1,4 @@
+config SND_SOC_OPENCORES_I2S
+	tristate "OpenCores I2S for SoCFPGA"
+config SND_SOC_DE1_SoC_WM8731
+	tristate "DE1_SoC WM8731"
